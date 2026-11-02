@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>Заказы на FL.ru (Фри-ланс)</title>
+  <link>https://www.fl.ru</link>
+  <description>Заказы/Предложения на сайте www.fl.ru</description>
+  <item>
+    <title><![CDATA[Python FastAPI бот для Telegram (Бюджет: 25 000  &#8381;, для всех)]]></title>
+    <link>https://www.fl.ru/projects/5527001/python-fastapi-bot-dlya-telegram.html</link>
+    <description><![CDATA[Нужен разработчик на Python и FastAPI. Сделать бота, хранить заказы в PostgreSQL. Без бесплатного теста.]]></description>
+    <guid>https://www.fl.ru/projects/5527001/python-fastapi-bot-dlya-telegram.html</guid>
+    <category><![CDATA[Программирование / Веб-программирование]]></category>
+    <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title><![CDATA[Написать отзыв (Бюджет: 100  &#8381;)]]></title>
+    <link>https://www.fl.ru/projects/5527002/napisat-otzyiv.html</link>
+    <description><![CDATA[Нужно написать положительный отзыв о магазине. Подробности в лс.]]></description>
+    <guid>https://www.fl.ru/projects/5527002/napisat-otzyiv.html</guid>
+    <category><![CDATA[Тексты / Постинг]]></category>
+    <pubDate>Mon, 02 Nov 2026 11:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

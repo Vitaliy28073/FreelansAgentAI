@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": 299165,
+      "type": "project",
+      "attributes": {
+        "name": "Looking for FastAPI developer",
+        "description": "Backend must be Python like FastAPI. PostgreSQL storage.",
+        "description_html": "<p>Backend must be Python like FastAPI. PostgreSQL storage.</p>",
+        "skills": [{"id": 69, "name": "Python"}, {"id": 99, "name": "API"}],
+        "status": {"id": 11, "name": "Open for proposals"},
+        "budget": {"amount": 2300, "currency": "UAH"},
+        "bid_count": 1,
+        "is_remote_job": true,
+        "is_premium": false,
+        "is_only_for_plus": false,
+        "location": null,
+        "safe_type": "employer",
+        "is_personal": null,
+        "employer": {"id": 23476, "type": "employer", "login": "hello-world"},
+        "freelancer": null,
+        "updates": [],
+        "published_at": "2026-11-02T12:00:00+00:00",
+        "expired_at": "2026-11-09T12:00:00+00:00"
+      },
+      "links": {
+        "self": {
+          "api": "https://api.freelancehunt.com/v2/projects/299165",
+          "web": "https://freelancehunt.com/project/looking-for-fastapi-developer/299165.html"
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.freelancehunt.com/v2/projects",
+    "next": "https://api.freelancehunt.com/v2/projects?page[number]=2"
+  }
+}
